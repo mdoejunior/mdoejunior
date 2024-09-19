@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🥷About Me:
 I am an enthusiastic Software Engineer specializing in the development of scalable and efficient applications. My expertise spans both backend and frontend technologies, including:
 
 Backend:
